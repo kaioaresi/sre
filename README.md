@@ -22,3 +22,9 @@
 > SLIs drive SLOs which inform SLAs
 
 ![Alt SLIs,SLOs,SLAs](img/sli_slo_sla.png)
+
+***
+# Referências
+
+- [SRE fundamentals slis,slas and slos](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
+- [SLIs, SLOs, SLAs, oh my! (class SRE implements DevOps)](https://www.youtube.com/watch?v=tEylFyxbDLE&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj&index=3&t=0s)
