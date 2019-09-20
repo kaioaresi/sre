@@ -3,6 +3,9 @@
 ## Service levels
 
 ### SLI (Service level indicator)
+
+   We also have a direct measurement of a service’s behavior: the frequency of successful probes of our system. This is a Service-Level Indicator (SLI). When we evaluate whether our system has been running within SLO for the past week, we look at the SLI to get the service availability percentage
+   If you want to know how reliable your service is, you must be able to measure the rates of successful and unsuccessful queries as your SLIs.
   95th percentile latency of homepage requests over past 5 minutes < 300ms
 
   - Request latency
